@@ -7,7 +7,7 @@ gatsby-starter-cv from [Gatsby Starters](https://www.gatsbyjs.org/starters/);
 
 ### Links and Resources
 
-[Netlify]()
+[Netlify](https://sleepy-ptolemy-35a982.netlify.app/)
 
 ### Setup
 
