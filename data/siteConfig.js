@@ -87,7 +87,7 @@ module.exports = {
       company: 'Code Fellows Seattle',
       begin: {
         month: 'Aug',
-        year: '2017',
+        year: '2020',
       },
       duration: '5 Month Program',
       occupation: 'Graduate',
