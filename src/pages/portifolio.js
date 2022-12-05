@@ -24,6 +24,9 @@ const Image = styled.img`
 const JobCard = styled.a`
   text-decoration: none;
   color: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
   ${({ href }) => href && css`
     &:hover ${Image}{
