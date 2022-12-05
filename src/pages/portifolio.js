@@ -60,9 +60,9 @@ const Portifolio = ({ className, location }) => {
                   target="_blank"
                 >
                   <Image src={withPrefix(job.image)} />
-                  <div>
-                    <p>{job.title}</p>
+                  <div  className='card-text'>
                     <i>{job.description}</i>
+                    <p>{job.title}</p>
                   </div>
                 </JobCard>
               </Col>
@@ -79,5 +79,10 @@ export default styled(Portifolio)`
     max-width: 100%;
     margin-bottom: 40px;
   }
-
+  .card-text {
+    text-align: center;
+  }
+  .card-text i {
+    font-size: .75rem;
+  }
 `
