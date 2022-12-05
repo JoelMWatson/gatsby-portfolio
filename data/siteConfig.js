@@ -47,7 +47,16 @@ module.exports = {
     {
       name: 'C/C++',
       level: 40,
-    }
+    },
+    {
+      name: 'Rust',
+      level: 30,
+    },
+    {
+      name: 'Lisp/Scheme',
+      level: 30,
+    },
+
     /* more skills here */
   ],
   jobs: [
@@ -55,7 +64,7 @@ module.exports = {
     {
       company: 'CompTIA Certificate',
       begin: {
-        month: 'Jan',
+        month: 'Sept',
         year: '2022',
       },
       duration: 'Earned Certificate',
@@ -77,7 +86,7 @@ module.exports = {
     {
       company: 'CompTIA Certificate',
       begin: {
-        month: 'Sept',
+        month: 'Jan',
         year: '2021',
       },
       duration: 'Earned Certificate',
