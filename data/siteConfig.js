@@ -64,6 +64,39 @@ module.exports = {
     {
       company: 'CompTIA Certificate',
       begin: {
+        month: 'May',
+        year: '2023',
+      },
+      duration: 'Earned Certificate',
+      occupation: 'CySA+',
+      description:
+        'Earned the Comptia CySA+ Certificate to further grow my knowledge and experience in the area of cyber security.',
+    },
+    {
+      company: 'Microsoft Azure Certificate',
+      begin: {
+        month: 'May',
+        year: '2023',
+      },
+      duration: 'Earned Certificate',
+      occupation: 'AZ900',
+      description:
+        'Earned the AZ900 Certificate to begin the journey of improving my skills with cloud technologies.',
+    },
+    {
+      company: 'Linux Foundation Certificate',
+      begin: {
+        month: 'March',
+        year: '2023',
+      },
+      duration: 'Earned Certificate',
+      occupation: 'LFCS',
+      description:
+        'Earned the Linux Foundation LFCS Certificate improve my ability to work in the Linux operating system environment.',
+    },
+    {
+      company: 'CompTIA Certificate',
+      begin: {
         month: 'Sept',
         year: '2022',
       },
